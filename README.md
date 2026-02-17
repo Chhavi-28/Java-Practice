@@ -1,3 +1,8 @@
+## 👩‍💻 About Me
+
+B.Tech CSE student passionate about backend development and building strong programming fundamentals.
+
+
 # Java Practice Repository
 
 This repository contains my structured Java practice programs focused on strengthening core programming fundamentals.

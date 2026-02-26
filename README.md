@@ -13,9 +13,9 @@ This repository contains my structured Java practice programs focused on strengt
   - Classes and Objects
   - Constructors
   - Encapsulation
+  - Abstraction
   - Inheritance (Upcoming)
   - Polymorphism (Upcoming)
-  - Abstraction (Upcoming)
 
 ## 📂 Project Structure
 
